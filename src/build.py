@@ -62,7 +62,7 @@ pre{font-family:'DejaVu Sans Mono',monospace;font-size:25px;line-height:1.55;bac
 """
 
 FOOT = """<div class="foot"><div class="who"><div class="av">L</div><div>
-<div class="name">Levan</div><div class="role">Laravel &amp; WooCommerce developer</div></div></div>
+<div class="name">Levan</div><div class="role">Full-stack developer</div></div></div>
 <div class="tag">{tag}</div></div>"""
 
 
