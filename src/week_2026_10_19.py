@@ -163,7 +163,7 @@ FRI = f"""{X}<div class="card">
 <div class="row"><div class="n">2</div><div class="t" style="font-size:28px">Private window &rarr; cart &rarr; Checkout. Check the address bar.</div></div>
 <div class="row"><div class="n">3</div><div class="t" style="font-size:28px">2-step login on your store and app accounts</div></div>
 </div>
-{FOOT.format(tag="Source in the first comment")}
+{FOOT.format(tag="Check your store today")}
 </div>"""
 
 # ---------------------------------------------------------------- SAT
